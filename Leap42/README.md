@@ -1,4 +1,4 @@
-# leap42
+# Leap42
 
 **The Leap 42 Calendar — Python reference library**
 
